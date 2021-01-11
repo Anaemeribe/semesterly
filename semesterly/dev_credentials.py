@@ -33,7 +33,7 @@ SECRETS = {
     #Not essential for testing, but can be filled in for advanced usage
     'GW_PASS': None,
     'GW_SECURITY_ANSWER': None,
-    'JHU_API_KEY': None,
+    'JHU_API_KEY': 'X1JrSneAsjDktOdEXtzv9H3XU6Z0bBBU',
     'VANDY_USER': None,
     'VANDY_PASS': None,
 
